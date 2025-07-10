@@ -1,14 +1,1289 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "title": "Hamster Kombat",
+    "about": "Do you wanna be a hamster CEO?",
+    "description": "",
+    "image": "/images/apps/hamster-kombat.jpg",
+    "link": "https://t.me/hamster_kombat_bot/start",
+    "category": "miniapp"
+  },
+  {
+    "id": 66,
+    "title": "Hamster GameDev",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/hamster-gamedev.jpg",
+    "link": "https://t.me/hamster_kombat_bot/season2",
+    "category": "miniapp"
+  },
+  {
+    "id": 67,
+    "title": "Hamster King",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/hamster-king.jpg",
+    "link": "https://t.me/hamsterking_game_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 65,
+    "title": "Hamster Fight Club",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/hamster-fight-club.jpg",
+    "link": "https://t.me/hamster_fightclub_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 1003,
+    "title": "BitQuest",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/bitquest.jpg",
+    "link": "https://t.me/BitquestGamesBot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 1004,
+    "title": "Hamster Boost",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/hamster-boost.jpg",
+    "link": "https://t.me/hamster_boost_io_bot/start",
+    "category": "miniapp"
+  },
+  {
+    "id": 69,
+    "title": "Hamster Tools",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/hamster-tools.jpg",
+    "link": "https://t.me/hamster_tools_bot/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 3,
+    "title": "Bums",
+    "about": "After fire🔥 water 💧 and a cardboard box 📦 you can become a legend! ⭐️",
+    "description": "",
+    "image": "/images/apps/bums.jpg",
+    "link": "https://t.me/bums/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 4,
+    "title": "Major",
+    "about": "Become a Major of Telegram. Complete tasks and earn TON",
+    "description": "",
+    "image": "/images/apps/major.jpg",
+    "link": "https://t.me/major/start",
+    "category": "miniapp"
+  },
+  {
+    "id": 5,
+    "title": "#Memhash",
+    "about": "#Memhash is mining game",
+    "description": "",
+    "image": "/images/apps/memhash.jpg",
+    "link": "https://t.me/memhash_bot/start",
+    "category": "miniapp"
+  },
+  {
+    "id": 6,
+    "title": "Catizen",
+    "about": "Play, Earn - Where Every Game Leads to an Airdrop",
+    "description": "",
+    "image": "/images/apps/catizen.jpg",
+    "link": "https://t.me/catizenbot/gameapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 71,
+    "title": "Hrum 🥠",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/hrum.jpg",
+    "link": "https://t.me/hrummebot/game",
+    "category": "miniapp"
+  },
+  {
+    "id": 89,
+    "title": "MRKT",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/mrkt.jpg",
+    "link": "https://t.me/mrkt/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 99,
+    "title": "Portals Market",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/portals.jpg",
+    "link": "https://t.me/portals/market",
+    "category": "miniapp"
+  },
+  {
+    "id": 92,
+    "title": "PalaceNFT",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/palace-nft.jpg",
+    "link": "https://t.me/palacenftbot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 137,
+    "title": "Tonnel Relayer Bot?startapp",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/tonnel.jpg",
+    "link": "https://t.me/Tonnel_Network_bot/gifts",
+    "category": "miniapp"
+  },
+  {
+    "id": 8,
+    "title": "TapSwap",
+    "about": "Tap on the coin and see your balance rise",
+    "description": "",
+    "image": "/images/apps/tapswap.jpg",
+    "link": "https://t.me/tapswap_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 9,
+    "title": "City Holder",
+    "about": "Welcome to CITY Holder 🏡 — the first Build-to-Earn game on Telegram! Start building your virtual city right now, invite friends, and level up your Friends' House before the game launches",
+    "description": "",
+    "image": "/images/apps/city-holder.jpg",
+    "link": "https://t.me/cityholder/game",
+    "category": "miniapp"
+  },
+  {
+    "id": 10,
+    "title": "Donot",
+    "about": "Welcome to 1983 — where the city teeters on the brink of madness",
+    "description": "",
+    "image": "/images/apps/donot.jpg",
+    "link": "https://t.me/donot/game",
+    "category": "miniapp"
+  },
+  {
+    "id": 11,
+    "title": "Agent 301",
+    "about": "See how many messages you've sent and get coins for using Telegram",
+    "description": "",
+    "image": "/images/apps/agent-301.jpg",
+    "link": "https://t.me/Agent301Bot/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 12,
+    "title": "1win Token",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/1win-token.jpg",
+    "link": "https://t.me/token1win_bot/start",
+    "category": "miniapp"
+  },
+  {
+    "id": 14,
+    "title": "Agent X",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/agent-x.jpg",
+    "link": "https://t.me/agntxbot/node",
+    "category": "miniapp"
+  },
+  {
+    "id": 15,
+    "title": "Anycharts Ai",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/anycharts-ai.jpg",
+    "link": "https://t.me/anychars18_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 17,
+    "title": "Avarush",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/avarush.jpg",
+    "link": "https://t.me/avarushbot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 18,
+    "title": "Bcoin 2048",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/bcoin-2048.jpg",
+    "link": "https://t.me/Bcoin2048bot/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 19,
+    "title": "Bitquest",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/bitquest.jpg",
+    "link": "https://t.me/BitquestGamesBot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 20,
+    "title": "Blink Game Ai",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/blink-game-ai.jpg",
+    "link": "https://t.me/blinkgameai_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 21,
+    "title": "Blum",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/blum.jpg",
+    "link": "https://t.me/Blum/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 22,
+    "title": "Boinkers",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/boinkers.jpg",
+    "link": "https://t.me/boinker_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 1001,
+    "title": "🍿 KINOHER | MOVIE FINDER",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/kinoher.jpg",
+    "link": "https://t.me/kinoherbot",
+    "category": "miniapp"
+  },
+  {
+    "id": 1002,
+    "title": "Save Tools | TikTok Instagram",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/save_tools.jpg",
+    "link": "https://t.me/save_tools_bot",
+    "category": "miniapp"
+  },
+  {
+    "id": 23,
+    "title": "Boxing Star X",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/boxing-star-x.jpg",
+    "link": "https://t.me/boxingstarxbot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 24,
+    "title": "BTC Rush",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/btc-rush.jpg",
+    "link": "https://t.me/btc_rush_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 25,
+    "title": "Bullish Farm",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/bullish-farm.jpg",
+    "link": "https://t.me/BullishFarmBot/start",
+    "category": "miniapp"
+  },
+  {
+    "id": 27,
+    "title": "Caps",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/caps.jpg",
+    "link": "https://t.me/durovcapsbot/caps",
+    "category": "miniapp"
+  },
+  {
+    "id": 28,
+    "title": "CapsGame",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/capsgame.jpg",
+    "link": "https://t.me/CapsGameBot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 29,
+    "title": "Capybobo",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/capybobo.jpg",
+    "link": "https://t.me/capybombbot/capybomb",
+    "category": "miniapp"
+  },
+  {
+    "id": 30,
+    "title": "case.tg",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/casetg.jpg",
+    "link": "https://t.me/casetgbot/startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 32,
+    "title": "Cats&Dogs",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/cats_and_dogs.jpg",
+    "link": "https://t.me/catsdogs_game_bot/join",
+    "category": "miniapp"
+  },
+  {
+    "id": 33,
+    "title": "Cattea",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/cattea.jpg",
+    "link": "https://t.me/CatteaAIbot/gameapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 34,
+    "title": "Checkrewards",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/checkrewards.jpg",
+    "link": "https://t.me/checkrewards_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 35,
+    "title": "Cicada",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/cicada.jpg",
+    "link": "https://t.me/cicadagame_bot/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 37,
+    "title": "Corn Battles",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/corn-battles.jpg",
+    "link": "https://t.me/CornBattlesBot/PlayCornBattles",
+    "category": "miniapp"
+  },
+  {
+    "id": 38,
+    "title": "Cosmo Bear",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/cosmo-bear.jpg",
+    "link": "https://t.me/CosmoBear_bot/play",
+    "category": "miniapp"
+  },
+  {
+    "id": 40,
+    "title": "Crypto Bot?startapp",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/cryptobot.jpg",
+    "link": "https://t.me/send?start=r-2zeyo",
+    "category": "miniapp"
+  },
+  {
+    "id": 1005,
+    "title": "xRocket",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/xrocket.jpg",
+    "link": "https://t.me/xrocket?start=i_jUltLnHEUE",
+    "category": "miniapp"
+  },
+  {
+    "id": 41,
+    "title": "CT Pool",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/ct-pool.jpg",
+    "link": "https://t.me/ctpool_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 42,
+    "title": "Dogiators",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/dogiators.jpg",
+    "link": "https://t.me/Dogiators_bot/game",
+    "category": "miniapp"
+  },
+  {
+    "id": 43,
+    "title": "Donot",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/donot.jpg",
+    "link": "https://t.me/donot/game",
+    "category": "miniapp"
+  },
+  {
+    "id": 44,
+    "title": "Dotcoin",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/dotcoin.jpg",
+    "link": "https://t.me/dotcoin_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 45,
+    "title": "Dragonz Land",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/dragonz-land.jpg",
+    "link": "https://t.me/dragonz_land_bot/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 46,
+    "title": "Drft Party",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/drft-party.jpg",
+    "link": "https://t.me/drft_party_bot/game",
+    "category": "miniapp"
+  },
+  {
+    "id": 47,
+    "title": "DUCK × MY × DUCK",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/duck-my-duck.jpg",
+    "link": "https://t.me/duckmyduck_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 48,
+    "title": "Duckygram",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/duckygram.jpg",
+    "link": "https://t.me/duckygram_bot/play",
+    "category": "miniapp"
+  },
+  {
+    "id": 49,
+    "title": "Easy Gift",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/easy-gift.jpg",
+    "link": "https://t.me/EasyGiftDropbot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 50,
+    "title": "Empty",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/empty-pepe.jpg",
+    "link": "https://t.me/EmptyPepeBot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 51,
+    "title": "Fight Me",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/fight-me.jpg",
+    "link": "https://t.me/fightme_gamebot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 53,
+    "title": "#fomo_hash",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/fomo-hash.jpg",
+    "link": "https://t.me/fomohash_bot/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 54,
+    "title": "Fragmem",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/fragmem.jpg",
+    "link": "https://t.me/FragMemBot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 55,
+    "title": "Gatto | Game",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/gatto.jpg",
+    "link": "https://t.me/gatto_gamebot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 56,
+    "title": "GenkiMinerBot?startapp",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/genki-miner.jpg",
+    "link": "https://t.me/GenkiMinerBot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 57,
+    "title": "GH Arena",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/gh-arena.jpg",
+    "link": "https://t.me/GHArenaBot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 58,
+    "title": "Gift Box",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/gift-box.jpg",
+    "link": "https://t.me/giftbox_official_bot/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 59,
+    "title": "Gift Caps",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/gift-caps.jpg",
+    "link": "https://t.me/GiftCapsBot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 60,
+    "title": "Gift Kombat",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/gift-kombat.jpg",
+    "link": "https://t.me/gift_kombat_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 62,
+    "title": "Gilf",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/gilf.jpg",
+    "link": "https://t.me/GILF_gamebot/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 63,
+    "title": "GMC | XRP",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/gmc-xrp.jpg",
+    "link": "https://t.me/XRPChainBot/XRP",
+    "category": "miniapp"
+  },
+  {
+    "id": 64,
+    "title": "GoGift",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/gogift.jpg",
+    "link": "https://t.me/GoGift_official_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 70,
+    "title": "#mate - Release soon...",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/hashmate.jpg",
+    "link": "https://t.me/hashmate_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 72,
+    "title": "Labrador Adventures",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/labrador.jpg",
+    "link": "https://t.me/LabradorAdventuresBot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 73,
+    "title": "Lemon Cash🍋",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/lemon-cash.jpg",
+    "link": "https://t.me/lemon_casher_bot/LEMONCASH",
+    "category": "miniapp"
+  },
+  {
+    "id": 74,
+    "title": "Ligmar Online",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/ligmar-online.jpg",
+    "link": "https://t.me/LigmarBot/game",
+    "category": "miniapp"
+  },
+  {
+    "id": 75,
+    "title": "LIME Game",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/lime-game.jpg",
+    "link": "https://t.me/iMe_lime_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 76,
+    "title": "🐶Lucky Mining",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/lucky-mining.jpg",
+    "link": "https://t.me/LuckyMining_bot/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 77,
+    "title": "Majestic",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/majestic.jpg",
+    "link": "http://t.me/MajesticGameBot/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 78,
+    "title": "Major",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/major.jpg",
+    "link": "https://t.me/starmajorbot/start",
+    "category": "miniapp"
+  },
+  {
+    "id": 79,
+    "title": "Mars2049_Bot?startapp",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/mars2049.jpg",
+    "link": "https://t.me/Mars2049_Bot/Mars2049",
+    "category": "miniapp"
+  },
+  {
+    "id": 80,
+    "title": "Match money game",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/match-money.jpg",
+    "link": "https://t.me/MatchMoney_gamebot/start",
+    "category": "miniapp"
+  },
+  {
+    "id": 81,
+    "title": "MemHustle",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/mem-hustle.jpg",
+    "link": "https://t.me/MemHustle_bot/memHustle",
+    "category": "miniapp"
+  },
+  {
+    "id": 82,
+    "title": "#Memhash",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/memhash.jpg",
+    "link": "https://t.me/memhash_bot/start",
+    "category": "miniapp"
+  },
+  {
+    "id": 83,
+    "title": "Mine Dragons",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/mine-dragons.jpg",
+    "link": "https://t.me/DragonMiners_bot/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 84,
+    "title": "MineVerse",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/mine-verse.jpg",
+    "link": "https://t.me/MineVerseBot/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 86,
+    "title": "#Mine XRP",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/mine-xrp.jpg",
+    "link": "https://t.me/LettersHub_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 87,
+    "title": "Minetap – Craft and merge",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/minetap.jpg",
+    "link": "https://t.me/MineTapGameBot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 88,
+    "title": "Money Mining",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/money-mining.jpg",
+    "link": "https://t.me/Money_Mining_Bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 90,
+    "title": "Not Pixel",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/not-pixel.jpg",
+    "link": "https://t.me/notpixel/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 91,
+    "title": "Nuts Farm",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/nuts-farm.jpg",
+    "link": "https://t.me/nutsfarm_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 93,
+    "title": "PandaFiT",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/panda-fit.jpg",
+    "link": "https://t.me/PandaFiT_bot?start",
+    "category": "miniapp"
+  },
+  {
+    "id": 94,
+    "title": "PenguinQuest",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/penguin-quest.jpg",
+    "link": "https://t.me/Penquest_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 95,
+    "title": "Piggy Bank 🏀",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/piggy-bank.jpg",
+    "link": "https://t.me/piggybankgamebot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 96,
+    "title": "PingPong Parade",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/pingpong-parade.jpg",
+    "link": "https://t.me/PingPongParadebot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 97,
+    "title": "PlayDeck",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/playdeck.jpg",
+    "link": "https://t.me/playdeckbot/game",
+    "category": "miniapp"
+  },
+  {
+    "id": 100,
+    "title": "Prime Gifts",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/prime-gifts.jpg",
+    "link": "https://t.me/primegiftsbot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 1006,
+    "title": "Telegram Apps Center",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/tapps.jpg",
+    "link": "https://t.me/tapps/center",
+    "category": "miniapp"
+  },
+  {
+    "id": 1007,
+    "title": "@appss",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/appss.jpg",
+    "link": "https://t.me/appss/store",
+    "category": "miniapp"
+  },
+  {
+    "id": 1008,
+    "title": "FindMini.app",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/find-mini-app.jpg",
+    "link": "https://t.me/findminiappbot/start",
+    "category": "miniapp"
+  },
+  {
+    "id": 101,
+    "title": "Prison",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/prison.jpg",
+    "link": "https://t.me/tonprison_bot/tonprison",
+    "category": "miniapp"
+  },
+  {
+    "id": 102,
+    "title": "Puparty🎰",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/puparty.jpg",
+    "link": "https://t.me/puparty_bot/index",
+    "category": "miniapp"
+  },
+  {
+    "id": 103,
+    "title": "Quick Gift",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/quick-gift.jpg",
+    "link": "https://t.me/QuickGiftBot/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 104,
+    "title": "Random Gift",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/random-gift.jpg",
+    "link": "https://t.me/randgift_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 105,
+    "title": "Rats Kingdom",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/rats-kingdom.jpg",
+    "link": "http://t.me/RatsKingdom_Bot/join",
+    "category": "miniapp"
+  },
+  {
+    "id": 106,
+    "title": "🟡 Rich App",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/rich-app.jpg",
+    "link": "https://t.me/RichApp1_Bot/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 107,
+    "title": "Rich Dog: Top Play-to-Earn Game 💰🐶",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/rich-dog.jpg",
+    "link": "https://t.me/RichDogGameBot/Play",
+    "category": "miniapp"
+  },
+  {
+    "id": 108,
+    "title": "Richbot Revolution",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/richbot-revolution.jpg",
+    "link": "https://t.me/RichRevolutionbot/game",
+    "category": "miniapp"
+  },
+  {
+    "id": 109,
+    "title": "Rolls",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/rolls.jpg",
+    "link": "https://t.me/rollsgame_bot/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 110,
+    "title": "Rose Cloner",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/rose-cloner.jpg",
+    "link": "https://t.me/RoseClonerBot",
+    "category": "miniapp"
+  },
+  {
+    "id": 1009,
+    "title": "T22 Bot",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/t22.jpg",
+    "link": "https://t.me/T22_robot",
+    "category": "miniapp"
+  },
+  {
+    "id": 111,
+    "title": "Rumble Arcade",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/rumble-arcade.jpg",
+    "link": "https://t.me/RumbleArcadeBot/rumblearcade",
+    "category": "miniapp"
+  },
+  {
+    "id": 112,
+    "title": "SKINAPP — КЕЙСЫ CS2",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/skinapp.jpg",
+    "link": "https://t.me/skinapp_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 113,
+    "title": "SlapStar",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/slapstar.jpg",
+    "link": "https://t.me/SlapStarBot/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 114,
+    "title": "Sleepagotchi LITE",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/sleepagotchi-lite.jpg",
+    "link": "https://t.me/sleepagotchiLITE_bot/game",
+    "category": "miniapp"
+  },
+  {
+    "id": 115,
+    "title": "SOUL DATING",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/soul-dating.jpg",
+    "link": "https://t.me/FaceMeet_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 116,
+    "title": "Spin the Bottle 🍾❤️",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/spin-the-bottle.jpg",
+    "link": "https://t.me/spinthe_bot/bottle",
+    "category": "miniapp"
+  },
+  {
+    "id": 117,
+    "title": "Squad Game | Гра в Кальмара",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/squad-game.jpg",
+    "link": "https://t.me/sg_click_bot/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 118,
+    "title": "StarCase",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/star-case.jpg",
+    "link": "https://t.me/CasesStarBot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 119,
+    "title": "Star Riser",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/star-riser.jpg",
+    "link": "https://t.me/starriser_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 120,
+    "title": "Sticker Pack",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/sticker-pack.jpg",
+    "link": "https://t.me/sticker_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 122,
+    "title": "Sugar Quest",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/sugar-quest.jpg",
+    "link": "https://t.me/SugarQuestBot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 123,
+    "title": "Symptomify App",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/symptomify-app.jpg",
+    "link": "https://t.me/symptomify_bot/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 125,
+    "title": "Tanga",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/tanga.jpg",
+    "link": "https://t.me/tangaz_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 127,
+    "title": "TAPX",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/tapx.jpg",
+    "link": "https://t.me/tapxbattle_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 128,
+    "title": "Yescoin",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/the-yescoin.jpg",
+    "link": "https://t.me/theYescoin_bot/Yescoin",
+    "category": "miniapp"
+  },
+  {
+    "id": 129,
+    "title": "Tiny Verse",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/tiny-verse.jpg",
+    "link": "https://t.me/TVerseAppBot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 130,
+    "title": "Token Carnival",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/token-carnival.jpg",
+    "link": "http://t.me/TokenCarnivalBot/Carnival",
+    "category": "miniapp"
+  },
+  {
+    "id": 132,
+    "title": "TON Dating",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/ton-dating.jpg",
+    "link": "https://t.me/TonDating_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 133,
+    "title": "TON Kombat",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/ton-kombat.jpg",
+    "link": "https://t.me/Ton_kombat_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 135,
+    "title": "#TonHash",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/tonhash-game.jpg",
+    "link": "https://t.me/tonhash_game_bot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 136,
+    "title": "TONHash",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/tonhash.jpg",
+    "link": "https://t.me/TonHashAppBot/Hash",
+    "category": "miniapp"
+  },
+  {
+    "id": 138,
+    "title": "Treasury",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/treasury.jpg",
+    "link": "https://t.me/treasury_official_bot/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 139,
+    "title": "Trump's Empire",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/trumps-empire.jpg",
+    "link": "http://t.me/TrumpsEmpireBot/game",
+    "category": "miniapp"
+  },
+  {
+    "id": 140,
+    "title": "TThero",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/tthero.jpg",
+    "link": "https://t.me/TTHerobot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 141,
+    "title": "Uni Jump",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/uni-jump.jpg",
+    "link": "https://t.me/unijump_bot/game",
+    "category": "miniapp"
+  },
+  {
+    "id": 142,
+    "title": "VIRUS GAME BOT",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/virus-play.jpg",
+    "link": "https://t.me/virus_play_bot/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 143,
+    "title": "VOID",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/void.jpg",
+    "link": "https://t.me/VoidNotHereBot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 145,
+    "title": "W-Coin",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/w-coin.jpg",
+    "link": "https://t.me/wcoin_tapbot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 146,
+    "title": "WAGMI HUB",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/wagmi-hub.jpg",
+    "link": "https://t.me/WAGMIHUB_BOT",
+    "category": "miniapp"
+  },
+  {
+    "id": 147,
+    "title": "Wallet",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/wallet.jpg",
+    "link": "https://t.me/wallet/start",
+    "category": "miniapp"
+  },
+  {
+    "id": 148,
+    "title": "Wealth Core App 🔋",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/wealth-core-app.jpg",
+    "link": "https://t.me/USDT99_bot/app",
+    "category": "miniapp"
+  },
+  {
+    "id": 149,
+    "title": "WeMine",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/wemine.jpg",
+    "link": "https://t.me/WeMineBot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 150,
+    "title": "WONTON",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/wonton.jpg",
+    "link": "https://t.me/WontonOrgBot/gameapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 151,
+    "title": "Your Waifu",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/your-waifu.jpg",
+    "link": "https://t.me/rp_waifubot?startapp",
+    "category": "miniapp"
+  },
+  {
+    "id": 152,
+    "title": "ZarGates",
+    "about": "",
+    "description": "",
+    "image": "/images/apps/zargates.jpg",
+    "link": "https://t.me/ZARGatesBot/twa",
+    "category": "miniapp"
+  },
+  {
+    "id": 2,
+    "title": "VOXEL - Build to Earn",
+    "about": "VOXEL is a blockchain-based platform where users can build, trade, and earn from 3D voxel NFTs",
+    "description": "",
+    "image": "/images/apps/voxel.jpg",
+    "link": "https://t.me/voxel_verse_bot/app",
+    "category": "miniapp"
   }
-}
+]
